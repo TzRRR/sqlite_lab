@@ -1,10 +1,9 @@
 """
-Extract a dataset from a URL like Kaggle or data.gov. JSON or CSV formats tend to work well
+Extract a dataset from a URL like Kaggle or data.gov. 
+JSON or CSV formats tend to work well
 
 food dataset
 """
-import requests
-
 import requests
 
 def extract(url="https://raw.githubusercontent.com/fivethirtyeight/data/master/airline-safety/airline-safety.csv", 
