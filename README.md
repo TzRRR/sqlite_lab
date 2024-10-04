@@ -1,5 +1,7 @@
 # SQLite Lab: CRUD Operations
 
+![CI](https://github.com/<TzRRR>/<sqlite_lab>/actions/workflows/<WORKFLOW_FILE>.yml/badge.svg)
+
 ## Overview
 
 A Python project for performing basic CRUD (Create, Read, Update, Delete) operations on a SQLite database storing airline data.
