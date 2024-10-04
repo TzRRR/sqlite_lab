@@ -15,6 +15,7 @@ def load(dataset="airline.csv"):
     #prints the full working directory and path
     print(os.getcwd())
     payload = csv.reader(open(dataset, newline=''), delimiter=',')
+    next(payload)
     conn = sqlite3.connect('AirlineDB.db')
     c = conn.cursor()
     c.execute("DROP TABLE IF EXISTS AirlineDB")
