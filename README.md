@@ -1,6 +1,6 @@
 # SQLite Lab: CRUD Operations
 
-![CI](https://github.com/<TzRRR>/<sqlite_lab>/actions/workflows/cicd.yml/badge.svg)
+[![CI](https://github.com/TzRRR/sqlite_lab/actions/workflows/cicd.yml/badge.svg)](https://github.com/TzRRR/sqlite_lab/actions/workflows/cicd.yml)
 
 ## Overview
 
